@@ -1,4 +1,4 @@
-This folder contains the code to run the Cervical Cancer Radiomic Analysis
+This folder contains the code to run the Cervical Cancer Radiomic Temporal Analysis
 
 The full dataset is available at: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=112591753
 
